@@ -1,0 +1,29 @@
+{
+    "name": "sakadibot",
+    "version": "1.0.0",
+    "description": "bot 100% portuguese",
+    "main": "index,js",
+    "scripts": {
+        "start": "node index.js"
+
+    },
+    "engines": {
+        "node": "8.4.0"
+    },
+
+    "author": "PykeCode",
+
+     "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^0.3.2",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "express": "^4.15.5",
+    "quick.db": "^6.3.2",
+    "canvas": "^2.0.1",
+    "node-superfetch": "^0.1.9",
+    "ytdl-core": "^0.24.0",
+    "yt-search": "^0.1.4",
+    "node-opus": "^0.3.0"
+  }
+}
